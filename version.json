@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.8",
-  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.8/pause-v0.1.8.apk",
-  "changelog": "• Diapositivas oficiales de la Clase 1 en el módulo de Clases y Fundamentos.\n• Tipografía más grande y clara en el orbe de respiración y pausa.\n• 'Probar la pausa' en inicio funciona en modo demostración sin abrir apps externas.\n• Canal oficial de actualizaciones automáticas integrado.",
+  "versionCode": 9,
+  "versionName": "0.1.9",
+  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.9/pause-v0.1.9.apk",
+  "changelog": "\u2022 Diapositivas sin recuadro con ancho horizontal completo y m\u00e1s espacio vertical.\n\u2022 Eliminado recuadro 'Frame 1 de 11' e indicadores de puntos.\n\u2022 Ventana flotante autom\u00e1tica al detectar nueva versi\u00f3n con detalle de mejoras.\n\u2022 Texto e indicaci\u00f3n de respiraci\u00f3n guiada m\u00e1s grande y clara.\n\u2022 Endpoint oficial de feedback an\u00f3nimo configurado.",
   "mandatory": false,
   "releaseDate": "2026-10-16"
 }

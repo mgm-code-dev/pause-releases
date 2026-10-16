@@ -2,12 +2,11 @@
 
 Repositorio oficial de distribución de versiones públicas y actualizaciones para la aplicación **PAUSE**.
 
-## Última versión: v0.1.10 (build 10)
+## Última versión: v0.1.11 (build 11)
 
-- **Descarga directa:** [pause-v0.1.10.apk](https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.10/pause-v0.1.10.apk)
+- **Descarga directa:** [pause-v0.1.11.apk](https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.11/pause-v0.1.11.apk)
 - **Notas de la versión:**
-  - **Telemetría educativa cada 3 días:** Recolección periódica y silenciosa de métricas anónimas para evaluar el impacto y uso de la app.
-  - **Seguridad anti-spam:** Encabezado con token secreto (`X-Pause-Token`) para validar la autenticidad de los envíos de la app.
-  - **Ventana flotante de actualización:** Notificación automática en tiempo real al detectar nueva versión con botón directo de descarga e instalación.
-  - **Diapositivas optimizadas:** Pantallas de clases a ancho completo horizontal sin recuadros ni puntitos distractores.
-  - **Texto ampliado en respiración:** Frase 'Mantené apretado el círculo hasta que se complete' en 25sp extra negrita.
+  - **Google Sheets unificado:** Tanto la telemetría cada 3 días como el feedback de los estudiantes se guardan automáticamente en tu propio Google Sheets en dos hojas separadas ('Telemetría' y 'Feedback').
+  - **100% gratuito y sin límites:** Eliminada cualquier dependencia de Formspree para evitar bloqueos por cuotas de pago.
+  - **Seguridad anti-spam:** Encabezado y carga útil con token secreto (`pause_edu_sec_2026_q8m`) para validar la autenticidad de cada envío.
+  - **Ventana flotante de actualización:** Notificación automática en tiempo real al detectar nueva versión.

@@ -2,11 +2,12 @@
 
 Repositorio oficial de distribución de versiones públicas y actualizaciones para la aplicación **PAUSE**.
 
-## Última versión: v0.1.8 (build 8)
+## Última versión: v0.1.9 (build 9)
 
-- **Descarga directa:** [pause-v0.1.8.apk](https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.8/pause-v0.1.8.apk)
+- **Descarga directa:** [pause-v0.1.9.apk](https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.9/pause-v0.1.9.apk)
 - **Notas de la versión:**
-  - 11 diapositivas oficiales de la Clase 1 en el módulo de Clases y Fundamentos.
-  - Tipografía más grande, clara y nítida en el orbe de respiración y pausa inicial.
-  - Corrección de "Probar la pausa" en pantalla de inicio (modo demostración seguro sin abrir apps externas).
-  - Comprobador de actualizaciones automáticas desde la app integrado.
+  - **Diapositivas optimizadas:** Se eliminó el recuadro exterior limitante para aprovechar todo el ancho horizontal de la pantalla y maximizar el espacio vertical.
+  - **Navegación limpia en clases:** Se retiró el indicador "Frame X de 11" y la fila de puntitos, dejando únicamente controles claros de Anterior y Siguiente.
+  - **Cartel flotante de actualización:** Detección automática al iniciar la app con ventana modal que lista todas las novedades y permite actualizar o saltar la versión.
+  - **Texto ampliado en respiración:** Tipografía de 25sp extra negrita y caja contenedora ampliada en la instrucción "Mantené apretado el círculo hasta que se complete".
+  - **Endpoint oficial de feedback:** Conexión directa y anónima con el nuevo formulario de recepción de feedback estudiantil.

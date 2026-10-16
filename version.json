@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.10",
-  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.10/pause-v0.1.10.apk",
-  "changelog": "\u2022 Sistema de telemetr\u00eda educativa peri\u00f3dica cada 3 d\u00edas con token de seguridad.\n\u2022 Cartel flotante interactivo de actualizaci\u00f3n autom\u00e1tica probado y verificado.\n\u2022 Diapositivas sin recuadro con ancho horizontal completo y m\u00e1s espacio vertical.\n\u2022 Texto ampliado en la respiraci\u00f3n guiada.",
+  "versionCode": 11,
+  "versionName": "0.1.11",
+  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.11/pause-v0.1.11.apk",
+  "changelog": "\u2022 Integraci\u00f3n con Google Sheets para Feedback y Telemetr\u00eda en dos hojas independientes.\n\u2022 Sin l\u00edmites ni costos de servicios externos.\n\u2022 Seguridad anti-spam validada con token secreto.",
   "mandatory": false,
   "releaseDate": "2026-10-16"
 }

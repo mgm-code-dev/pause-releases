@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.9",
-  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.9/pause-v0.1.9.apk",
-  "changelog": "\u2022 Diapositivas sin recuadro con ancho horizontal completo y m\u00e1s espacio vertical.\n\u2022 Eliminado recuadro 'Frame 1 de 11' e indicadores de puntos.\n\u2022 Ventana flotante autom\u00e1tica al detectar nueva versi\u00f3n con detalle de mejoras.\n\u2022 Texto e indicaci\u00f3n de respiraci\u00f3n guiada m\u00e1s grande y clara.\n\u2022 Endpoint oficial de feedback an\u00f3nimo configurado.",
+  "versionCode": 10,
+  "versionName": "0.1.10",
+  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.10/pause-v0.1.10.apk",
+  "changelog": "\u2022 Sistema de telemetr\u00eda educativa peri\u00f3dica cada 3 d\u00edas con token de seguridad.\n\u2022 Cartel flotante interactivo de actualizaci\u00f3n autom\u00e1tica probado y verificado.\n\u2022 Diapositivas sin recuadro con ancho horizontal completo y m\u00e1s espacio vertical.\n\u2022 Texto ampliado en la respiraci\u00f3n guiada.",
   "mandatory": false,
   "releaseDate": "2026-10-16"
 }

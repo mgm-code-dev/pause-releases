@@ -15,11 +15,13 @@ URL fija:
 
 ---
 
-## Última versión publicada: v0.1.11 (build 11)
+## Última versión publicada: v0.1.12 (build 12)
 
-- **Descarga específica v0.1.11:** [pause-v0.1.11.apk](https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.11/pause-v0.1.11.apk)
+- **Descarga específica v0.1.12:** [pause-v0.1.12.apk](https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.12/pause-v0.1.12.apk)
 - **Notas de la versión:**
-  - **Google Sheets unificado:** Tanto la telemetría cada 3 días como el feedback de los estudiantes se guardan automáticamente en tu propio Google Sheets en dos hojas separadas ('Telemetría' y 'Feedback').
-  - **100% gratuito y sin límites:** Eliminada cualquier dependencia de Formspree para evitar bloqueos por cuotas de pago.
-  - **Seguridad anti-spam:** Encabezado y carga útil con token secreto (`pause_edu_sec_2026_q8m`) para validar la autenticidad de cada envío.
-  - **Ventana flotante de actualización:** Notificación automática en tiempo real al detectar nueva versión.
+  - **Bienestar Digital y Tiempo de Pantalla:** Nuevo panel interactivo que mide las horas de uso por aplicación.
+  - **3 Modalidades temporales:**
+    - **Día:** Horas totales, barra multicolor y desglose de apps con tiempo exacto y porcentaje.
+    - **Semana:** Gráfico de 7 barras verticales (Lun a Dom) y promedio diario.
+    - **Mes:** Calendario mensual interactivo con mapa de calor según intensidad de uso y detalle al tocar cualquier día.
+  - **Privacidad y compatibilidad:** Utiliza la API nativa `UsageStatsManager` sin requerir permisos adicionales para los estudiantes.

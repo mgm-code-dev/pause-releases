@@ -4,24 +4,25 @@ Repositorio oficial de distribución de versiones públicas y actualizaciones pa
 
 ---
 
-### 📥 Enlace Directo Permanente (Siempre la última versión)
+### 📥 Enlace Directo Permanente (Siempre la última versión estable)
 
-Haciendo clic en este enlace se descarga **directamente y siempre el último APK** disponible sin importar qué versión sea:
+Haciendo clic en este enlace se descarga **directamente y siempre el último APK** disponible:
 
-👉 **[Descargar última versión de PAUSE (APK directo)](https://github.com/mgm-code-dev/pause-releases/releases/latest/download/pause.apk)**
+👉 **[Descargar última versión estable de PAUSE (APK directo)](https://github.com/mgm-code-dev/pause-releases/releases/latest/download/pause.apk)**
 
 URL fija:
-`https://github.com/mgm-code-dev/pause-releases/releases/latest/download/pause.apk`
+
 
 ---
 
-## Última versión publicada: v0.1.12 (build 12)
+## Última versión publicada: v0.1.13 (build 13)
 
-- **Descarga específica v0.1.12:** [pause-v0.1.12.apk](https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.12/pause-v0.1.12.apk)
+- **Canal:** Lanzamiento Estable (Predeterminado)
+- **Descarga específica v0.1.13:** [pause-v0.1.13.apk](https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.13/pause-v0.1.13.apk)
 - **Notas de la versión:**
-  - **Bienestar Digital y Tiempo de Pantalla:** Nuevo panel interactivo que mide las horas de uso por aplicación.
-  - **3 Modalidades temporales:**
-    - **Día:** Horas totales, barra multicolor y desglose de apps con tiempo exacto y porcentaje.
-    - **Semana:** Gráfico de 7 barras verticales (Lun a Dom) y promedio diario.
-    - **Mes:** Calendario mensual interactivo con mapa de calor según intensidad de uso y detalle al tocar cualquier día.
-  - **Privacidad y compatibilidad:** Utiliza la API nativa `UsageStatsManager` sin requerir permisos adicionales para los estudiantes.
+  - **Bienestar Digital interactivo:** Rediseño completo estilo Google Digital Wellbeing iniciando en la vista semanal interactiva con selección de días (Lun a Dom).
+  - **Altura de barras proporcional:** Las barras del gráfico representan con exactitud proporcional las horas de pantalla de cada día.
+  - **Eliminación total de datos sintéticos:** Cero datos inventados o de muestra; únicamente estadísticas 100% reales provistas por Android. Si aún no hay uso registrado o falta permiso, se muestra claramente  y la solicitud de permiso correspondiente.
+  - **Canales de Actualización en Ajustes:** Selector que permite elegir entre canal **Estable** (predeterminado) y canal **Beta** para pruebas anticipadas.
+  - **Protección de canal:** Las versiones beta solo notificarán a usuarios que hayan seleccionado voluntariamente el canal Beta en la configuración.
+  - **Íconos reactivos en Jetpack Compose:** Carga nativa inmediata sin retención de caché entre cambios de fecha.

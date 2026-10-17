@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.1.11",
-  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.11/pause-v0.1.11.apk",
-  "changelog": "\u2022 Integraci\u00f3n con Google Sheets para Feedback y Telemetr\u00eda en dos hojas independientes.\n\u2022 Sin l\u00edmites ni costos de servicios externos.\n\u2022 Seguridad anti-spam validada con token secreto.",
+  "versionCode": 12,
+  "versionName": "0.1.12",
+  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.12/pause-v0.1.12.apk",
+  "changelog": "\u2022 Nuevo m\u00f3dulo de Bienestar Digital y Tiempo de Pantalla.\n\u2022 Visualizaci\u00f3n de horas de uso por app: Diaria, Semanal (gr\u00e1fico de barras) y Mensual (calendario y mapa de calor).\n\u2022 Acceso directo desde Inicio y M\u00e9tricas.\n\u2022 Enlace de descarga fija permanente verificado.",
   "mandatory": false,
-  "releaseDate": "2026-10-16"
+  "releaseDate": "2026-10-17"
 }

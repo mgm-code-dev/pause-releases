@@ -1,8 +1,16 @@
 {
-  "versionCode": 12,
-  "versionName": "0.1.12",
-  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.12/pause-v0.1.12.apk",
-  "changelog": "\u2022 Nuevo m\u00f3dulo de Bienestar Digital y Tiempo de Pantalla.\n\u2022 Visualizaci\u00f3n de horas de uso por app: Diaria, Semanal (gr\u00e1fico de barras) y Mensual (calendario y mapa de calor).\n\u2022 Acceso directo desde Inicio y M\u00e9tricas.\n\u2022 Enlace de descarga fija permanente verificado.",
+  "versionCode": 13,
+  "versionName": "0.1.13",
+  "channel": "stable",
+  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.13/pause-v0.1.13.apk",
+  "changelog": "• Bienestar Digital: rediseño interactivo semanal con selección de días estilo Google Wellbeing.\n• Altura de barras proporcional al uso exacto y visualización simultánea de día y semana.\n• Eliminación completa de datos sintéticos o ficticios: estadísticas 100% reales.\n• Canales de actualización: selector entre Canal Estable (predeterminado) y Canal Beta en Configuración.\n• Las versiones beta no provocarán ventanas de actualización si tenés configurado el canal Estable.\n• Íconos nativos y reactivos en Jetpack Compose que se actualizan de forma inmediata.",
   "mandatory": false,
-  "releaseDate": "2026-10-17"
+  "releaseDate": "2026-10-17",
+  "beta": {
+    "versionCode": 13,
+    "versionName": "0.1.13",
+    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.13/pause-v0.1.13.apk",
+    "changelog": "Versión 0.1.13 con soporte de canales Estable y Beta.",
+    "releaseDate": "2026-10-17"
+  }
 }

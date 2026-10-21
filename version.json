@@ -1,16 +1,16 @@
 {
-  "versionCode": 15,
-  "versionName": "0.1.15",
+  "versionCode": 16,
+  "versionName": "0.1.16",
   "channel": "stable",
-  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.15/pause-v0.1.15.apk",
-  "changelog": "• Historial local de uso: conserva los datos disponibles aunque Android deje de ofrecerlos, sin inventar días anteriores.\n• Lecturas más robustas de sesiones, bloqueos, reinicios y cambios de día; distinción entre registros disponibles, parciales y sin datos.\n• Panel más compacto, barras por aplicación y navegación entre semanas mediante gestos y flechas.\n• Acceso a Bienestar Digital del teléfono y diagnóstico del historial con informe para copiar.\n• Recolección periódica y al abrir PAUSE para mantener actualizado el historial.\n• Limpieza de APKs instalados y opción para borrar descargas residuales.\n• Firma: la 0.1.13 publicada en GitHub usa otro certificado y no admite actualización directa. Desinstalar elimina los datos locales.",
+  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.16/pause-v0.1.16.apk",
+  "changelog": "• Modo claro y oscuro automático según la configuración de Android.\n• Colores adaptados en tarjetas, botones, formularios, estadísticas y calendario.\n• Conservación de la pantalla de Tiempo de pantalla al cambiar el tema del sistema.\n• Incluye el historial local y el panel de uso de la versión anterior; no recupera datos que Android haya eliminado.\n• Firma original recuperada: compatible con la v0.1.13. Las compilaciones 0.1.14 y 0.1.15 con certificado local alternativo no admiten actualización directa. Desinstalar elimina los datos y el historial local.",
   "mandatory": false,
   "releaseDate": "2026-10-21",
   "beta": {
-    "versionCode": 15,
-    "versionName": "0.1.15",
-    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.15/pause-v0.1.15.apk",
-    "changelog": "Versión 0.1.15 estable.\n• Historial local de uso: conserva los datos disponibles aunque Android deje de ofrecerlos, sin inventar días anteriores.\n• Lecturas más robustas de sesiones, bloqueos, reinicios y cambios de día; distinción entre registros disponibles, parciales y sin datos.\n• Panel más compacto, barras por aplicación y navegación entre semanas mediante gestos y flechas.\n• Acceso a Bienestar Digital del teléfono y diagnóstico del historial con informe para copiar.\n• Recolección periódica y al abrir PAUSE para mantener actualizado el historial.\n• Limpieza de APKs instalados y opción para borrar descargas residuales.\n• Firma: la 0.1.13 publicada en GitHub usa otro certificado y no admite actualización directa. Desinstalar elimina los datos locales.",
+    "versionCode": 16,
+    "versionName": "0.1.16",
+    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.16/pause-v0.1.16.apk",
+    "changelog": "Versión 0.1.16 estable.\n• Modo claro y oscuro automático según la configuración de Android.\n• Colores adaptados en tarjetas, botones, formularios, estadísticas y calendario.\n• Conservación de la pantalla de Tiempo de pantalla al cambiar el tema del sistema.\n• Incluye el historial local y el panel de uso de la versión anterior; no recupera datos que Android haya eliminado.\n• Firma original recuperada: compatible con la v0.1.13. Las compilaciones 0.1.14 y 0.1.15 con certificado local alternativo no admiten actualización directa. Desinstalar elimina los datos y el historial local.",
     "releaseDate": "2026-10-21"
   }
 }

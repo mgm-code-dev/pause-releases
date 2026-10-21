@@ -1,16 +1,16 @@
 {
-  "versionCode": 13,
-  "versionName": "0.1.13",
+  "versionCode": 15,
+  "versionName": "0.1.15",
   "channel": "stable",
-  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.13/pause-v0.1.13.apk",
-  "changelog": "• Bienestar Digital: rediseño interactivo semanal con selección de días estilo Google Wellbeing.\n• Altura de barras proporcional al uso exacto y visualización simultánea de día y semana.\n• Eliminación completa de datos sintéticos o ficticios: estadísticas 100% reales.\n• Canales de actualización: selector entre Canal Estable (predeterminado) y Canal Beta en Configuración.\n• Las versiones beta no provocarán ventanas de actualización si tenés configurado el canal Estable.\n• Íconos nativos y reactivos en Jetpack Compose que se actualizan de forma inmediata.",
+  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.15/pause-v0.1.15.apk",
+  "changelog": "• Historial local de uso: conserva los datos disponibles aunque Android deje de ofrecerlos, sin inventar días anteriores.\n• Lecturas más robustas de sesiones, bloqueos, reinicios y cambios de día; distinción entre registros disponibles, parciales y sin datos.\n• Panel más compacto, barras por aplicación y navegación entre semanas mediante gestos y flechas.\n• Acceso a Bienestar Digital del teléfono y diagnóstico del historial con informe para copiar.\n• Recolección periódica y al abrir PAUSE para mantener actualizado el historial.\n• Limpieza de APKs instalados y opción para borrar descargas residuales.\n• Firma: la 0.1.13 publicada en GitHub usa otro certificado y no admite actualización directa. Desinstalar elimina los datos locales.",
   "mandatory": false,
-  "releaseDate": "2026-10-17",
+  "releaseDate": "2026-10-21",
   "beta": {
-    "versionCode": 13,
-    "versionName": "0.1.13",
-    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.13/pause-v0.1.13.apk",
-    "changelog": "Versión 0.1.13 con soporte de canales Estable y Beta.",
-    "releaseDate": "2026-10-17"
+    "versionCode": 15,
+    "versionName": "0.1.15",
+    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.15/pause-v0.1.15.apk",
+    "changelog": "Versión 0.1.15 estable.\n• Historial local de uso: conserva los datos disponibles aunque Android deje de ofrecerlos, sin inventar días anteriores.\n• Lecturas más robustas de sesiones, bloqueos, reinicios y cambios de día; distinción entre registros disponibles, parciales y sin datos.\n• Panel más compacto, barras por aplicación y navegación entre semanas mediante gestos y flechas.\n• Acceso a Bienestar Digital del teléfono y diagnóstico del historial con informe para copiar.\n• Recolección periódica y al abrir PAUSE para mantener actualizado el historial.\n• Limpieza de APKs instalados y opción para borrar descargas residuales.\n• Firma: la 0.1.13 publicada en GitHub usa otro certificado y no admite actualización directa. Desinstalar elimina los datos locales.",
+    "releaseDate": "2026-10-21"
   }
 }

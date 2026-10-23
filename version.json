@@ -1,16 +1,16 @@
 {
-  "versionCode": 19,
-  "versionName": "0.1.19",
+  "versionCode": 20,
+  "versionName": "0.1.20",
   "channel": "stable",
-  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.19/pause-v0.1.19.apk",
-  "changelog": "• Versión de prueba para comprobar la detección y el flujo de instalación de actualizaciones. El único cambio en la app es el incremento de versión.",
+  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.20/pause-v0.1.20.apk",
+  "changelog": "• El acceso a Bienestar Digital desde Inicio y Métricas abre el panel oficial de Android.\n• Dashboard propio oculto temporalmente; el código se conserva.",
   "mandatory": false,
   "releaseDate": "2026-10-22",
   "beta": {
-    "versionCode": 19,
-    "versionName": "0.1.19",
-    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.19/pause-v0.1.19.apk",
-    "changelog": "Versión de prueba del actualizador.\n• Versión de prueba para comprobar la detección y el flujo de instalación de actualizaciones. El único cambio en la app es el incremento de versión.",
+    "versionCode": 20,
+    "versionName": "0.1.20",
+    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.20/pause-v0.1.20.apk",
+    "changelog": "Bienestar Digital ahora abre el panel oficial de Android. El dashboard propio se conserva en el código pero se oculta temporalmente.",
     "releaseDate": "2026-10-22"
   }
 }

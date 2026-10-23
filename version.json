@@ -1,16 +1,16 @@
 {
-  "versionCode": 18,
-  "versionName": "0.1.18",
+  "versionCode": 19,
+  "versionName": "0.1.19",
   "channel": "stable",
-  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.18/pause-v0.1.18.apk",
-  "changelog": "• Corrección del flujo de instalación de actualizaciones, con reintento al cancelar.\n• Descarga e instalación diferenciadas; confirmación por la versión instalada en Android.\n• Recuperación del estado al volver de permisos o reiniciar, sin abrir el instalador en bucle.\n• Aviso compacto con botón Cerrar visible y contenido desplazable.\n• Validación del APK y limpieza de archivos ya instalados.\n• Conserva modo oscuro automático e historial local.",
+  "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.19/pause-v0.1.19.apk",
+  "changelog": "• Versión de prueba para comprobar la detección y el flujo de instalación de actualizaciones. El único cambio en la app es el incremento de versión.",
   "mandatory": false,
   "releaseDate": "2026-10-22",
   "beta": {
-    "versionCode": 18,
-    "versionName": "0.1.18",
-    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.18/pause-v0.1.18.apk",
-    "changelog": "Versión 0.1.18 estable.\n• Corrección del flujo de instalación de actualizaciones, con reintento al cancelar.\n• Descarga e instalación diferenciadas; confirmación por la versión instalada en Android.\n• Recuperación del estado al volver de permisos o reiniciar, sin abrir el instalador en bucle.\n• Aviso compacto con botón Cerrar visible y contenido desplazable.\n• Validación del APK y limpieza de archivos ya instalados.\n• Conserva modo oscuro automático e historial local.",
+    "versionCode": 19,
+    "versionName": "0.1.19",
+    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.19/pause-v0.1.19.apk",
+    "changelog": "Versión de prueba del actualizador.\n• Versión de prueba para comprobar la detección y el flujo de instalación de actualizaciones. El único cambio en la app es el incremento de versión.",
     "releaseDate": "2026-10-22"
   }
 }

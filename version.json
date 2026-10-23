@@ -7,10 +7,10 @@
   "mandatory": false,
   "releaseDate": "2026-10-23",
   "beta": {
-    "versionCode": 22,
-    "versionName": "0.1.22-beta.1",
-    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.22-beta.1/pause-v0.1.22-beta.1.apk",
-    "changelog": "Beta con la configuración actual del proyecto para pruebas. versionCode: 22. Conserva la firma histórica de PAUSE.",
+    "versionCode": 23,
+    "versionName": "0.1.22-beta.2",
+    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.22-beta.2/pause-v0.1.22-beta.2.apk",
+    "changelog": "• Beta optimizada con R8, ofuscación y reducción de recursos activadas por defecto.\n• APK de aproximadamente 3,24 MB y firma histórica de PAUSE.\n• versionCode: 23. Prueba manual pendiente por fallo del instalador del emulador.",
     "releaseDate": "2026-10-23"
   }
 }

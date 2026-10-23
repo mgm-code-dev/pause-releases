@@ -7,10 +7,10 @@
   "mandatory": false,
   "releaseDate": "2026-10-23",
   "beta": {
-    "versionCode": 21,
-    "versionName": "0.1.21",
-    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.21/pause-v0.1.21.apk",
-    "changelog": "• Avisos más grandes de permisos faltantes en Inicio y en Escudo de Configuración.\n• Se detallan todos los permisos pendientes, con acceso directo para revisarlos.\n• El aviso aparece también si el escudo está encendido pero falta algún permiso.",
+    "versionCode": 22,
+    "versionName": "0.1.22-beta.1",
+    "apkUrl": "https://github.com/mgm-code-dev/pause-releases/releases/download/v0.1.22-beta.1/pause-v0.1.22-beta.1.apk",
+    "changelog": "Beta con la configuración actual del proyecto para pruebas. versionCode: 22. Conserva la firma histórica de PAUSE.",
     "releaseDate": "2026-10-23"
   }
 }

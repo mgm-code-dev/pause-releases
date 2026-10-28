@@ -1,7 +1,7 @@
 # Política de Privacidad de Autonomía: Pausa para elegir
 
 **Última actualización:** 28 de octubre de 2026  
-**Nombre de la aplicación:** Autonomía: Pausa para elegir (PAUSE)  
+**Nombre de la aplicación:** Autonomía: Pausa para elegir
 **Desarrollador:** MGM Apps  
 **Contacto de privacidad y soporte:** mgm.useful.apps@gmail.com  
 **Repositorio oficial:** https://github.com/mgm-code-dev/pause-releases  
